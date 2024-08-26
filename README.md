@@ -5,7 +5,7 @@ POM (Project Object Model) est un élément central dans les projets Java qui ut
 En un mot, le fichier pom.xml décrit le projet Maven, les dépendances nécessaires, les plugins à utiliser et les diverses configurations pour la construction et le déploiement.
 Les éléments important du ``pom.xml``
 
-project : la balise racine du fichier <br>
+&ltproject : la balise racine du fichier <br>
 modelVersion : la version du model du POM <br>
 groupId : l'id de groupe du projet, qui suit généralement la convention de nommage inversé de l'URL du site (example: com.example) <br>
 artifactId : le nom uniaque de l'appli ou du module (ex: myapp) <br>
